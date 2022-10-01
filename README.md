@@ -50,3 +50,27 @@ Con el comando: git init
 - Una vez abierto el archivo, precionas CTRL + SHIFT + Ñ y abrirá una terminal.
 
 ![image](https://user-images.githubusercontent.com/63822421/193392177-e4734b46-8ec9-4612-a045-57752f09289d.png)
+
+- En la terminal usaremos el comnado: npx cypress open o en caso de que no sriva, puedes usar el comando: node_modules\.bin\cypress open y presionar Enter.
+
+![image](https://user-images.githubusercontent.com/63822421/193392270-b2961417-1380-4e9d-86eb-985634d4cc95.png)
+
+- Una vez hecho esto, se abirirá una consola de Cypress, en donde elegiremos la opción E2E 
+
+![image](https://user-images.githubusercontent.com/63822421/193392326-984aa39c-f1aa-4e61-a6f6-0dbbd7b7950e.png)
+
+- Una vez hecho esto, seleccionas el navegador que usarás para la prueba, en este caso será Chrome y presionas en la opción Satrt E2E testing in Chrome.
+
+![image](https://user-images.githubusercontent.com/63822421/193392350-5ea07cd1-7c0a-4968-b295-54b11e98c03c.png)
+
+- Una vez hecho esto, se abrirá el navegador donde se mostrará la ejecución, elegiremos la opción Spec y selecionaremos el Spec llamado WingoPage.
+
+![image](https://user-images.githubusercontent.com/63822421/193392469-50d44445-6ffd-4a6b-981f-81cfd79c073c.png)
+
+- Una vez seleccionado dicho Spec, la prueba se ejecutará automaticamente, dejando el siguiente resulltado.
+
+![image](https://user-images.githubusercontent.com/63822421/193392521-39f576c3-5fec-442f-8067-dc65381a214c.png)
+
+
+
+
