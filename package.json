@@ -1,0 +1,23 @@
+{
+  "name": "wingo-automation",
+  "version": "1.0.0",
+  "description": "Automatización de sitio de web de viajes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alex-Oq21/Wingo-Automation.git"
+  },
+  "author": "Omar Alexis Oquendo Cárdenas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alex-Oq21/Wingo-Automation/issues"
+  },
+  "homepage": "https://github.com/Alex-Oq21/Wingo-Automation#readme",
+  "devDependencies": {
+    "cypress": "^10.9.0",
+    "cypress-xpath": "^2.0.1"
+  }
+}
