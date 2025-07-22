@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/Alex-Oq21/Wingo-Automation#readme",
   "devDependencies": {
-    "cypress": "^10.9.0",
+    "cypress": "^14.5.2",
     "cypress-xpath": "^2.0.1"
   }
 }
